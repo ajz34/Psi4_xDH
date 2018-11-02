@@ -1,7 +1,13 @@
 name: Psi4_xDH
 type: sphinx
+
+build:
+  image: latest
+
 python:
-  version: 3
+  version: 3.6
+  use_system_site_packages: true
+
 conda:
   file: environment.yml
 

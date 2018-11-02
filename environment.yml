@@ -1,10 +1,7 @@
-name: p4dev
 channels:
-  - psi4/label/dev
   - conda-forge
+
 dependencies:
-  - python=3.6
-  - psi4
   - jupyter
   - matplotlib
   - sphinx
