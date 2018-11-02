@@ -140,6 +140,8 @@ latex_documents = [
      'ajz34', 'manual'),
 ]
 
+latex_engine = 'xelatex'
+
 
 # -- Options for manual page output ------------------------------------------
 
