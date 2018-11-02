@@ -1,0 +1,7 @@
+name: Psi4_xDH
+type: sphinx
+python:
+  version: 3
+conda:
+  file: environment.yml
+
