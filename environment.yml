@@ -1,9 +1,11 @@
 channels:
-  - conda-forge
+  - psi4/label/dev
 
 dependencies:
-  - jupyter
-  - matplotlib
-  - sphinx
-  - nbsphinx
+  - psi4
+  - pip:
+    - jupyter
+    - matplotlib
+    - sphinx
+    - nbsphinx
 
