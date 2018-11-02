@@ -6,5 +6,6 @@ dependencies:
   - jupyter
   - matplotlib
   - sphinx
-  - nbsphinx
+  - pip:
+    - nbsphinx
 
