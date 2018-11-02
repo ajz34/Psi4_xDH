@@ -3,9 +3,8 @@ channels:
 
 dependencies:
   - psi4
-  - pip:
-    - jupyter
-    - matplotlib
-    - sphinx
-    - nbsphinx
+  - jupyter
+  - matplotlib
+  - sphinx
+  - nbsphinx
 
