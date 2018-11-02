@@ -1,15 +1,12 @@
 name: p4dev
 channels:
-  - conda-forge
   - psi4/label/dev
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-  - defaults
+  - conda-forge
 dependencies:
-  - sphinx
-  - nbsphinx
+  - python=3.6
   - psi4
   - jupyter
   - matplotlib
+  - sphinx
+  - nbsphinx
 
