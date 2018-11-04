@@ -171,6 +171,8 @@ def setup(app):
     # https://github.com/scipy/scipy-sphinx-theme/blob/master/_theme/scipy/static/js/copybutton.js
     app.add_javascript('copybutton.js')
 
+nbsphinx_allow_errors = True
+
 # -- Options for todo extension ----------------------------------------------
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
