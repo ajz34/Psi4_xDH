@@ -16,6 +16,8 @@ xDH 在 Psi4 下的简易教程
    motive
    install
    numpy_quick
+   basic_usage
+   test
    xyg3_energy
 
 Indices and tables
