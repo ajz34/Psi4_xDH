@@ -1,4 +1,5 @@
 */output.dat
 */timer.dat
+*/*.clean
 build
 .ipynb_checkpoints

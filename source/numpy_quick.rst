@@ -61,6 +61,8 @@ NumPy 的索引方式与 C、Python 相同，为行索引、存在零元．因�
           [1, 4],
           [2, 5]])
 
+对于张量的角标更换，在后续的教程中会使用 :code:`ndarray.swapaxes` 方法或者带传入参数的 :code:`ndarray.transpose`．
+
 矩阵元素运算
 ~~~~~~~~~~~~
 
