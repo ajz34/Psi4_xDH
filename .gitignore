@@ -3,3 +3,4 @@
 */*.clean
 build
 .ipynb_checkpoints
+*.pyc

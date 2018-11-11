@@ -18,6 +18,7 @@ xDH 在 Psi4 下的简易教程
    numpy_quick
    basic_usage
    xyg3_energy
+   mp2_cphf
 
 Indices and tables
 ==================
